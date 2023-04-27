@@ -1,10 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+Webscraping using Beautiful Soup 
 
-# # Webscraping using Beautiful Soup 
-# This is a simple webscraper that makes use of the pandas module in python, requests and Beautiful soup. 
-# In the code below, I make use of lists, loops and pandas dataframe to save the data I have scraped in a readable .csv table
-# The code currently picks data from one page in the Jumia website 
+This is a simple webscraper that makes use of the pandas module in python, requests and Beautiful soup. 
+In the code below, I make use of lists, loops and pandas dataframe to save the data I have scraped in a readable .csv table
+The code currently picks data from one page in the Jumia website 
 
 # In[ ]:
 
